@@ -1,6 +1,7 @@
-# yagomezm.github.io
+# Estadísticas Agropecuarias Departamento de Sucre - Colombia
 Pages
 Visualización Estadísticas del sector Agropecuario del Departamento de Sucre - Colombia Años 2011-2015
+Fuente de información: https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Estad-sticas-sector-agropecuario-cultivos-semestra/wsvu-nkma/data
 
 - Objetivo: Resumir como ha evolucionado la producción de cultivos en el departamento de Sucre entre los años 2011 a 2015 y cómo se encuentran distribuidos.
 
@@ -43,6 +44,7 @@ Idioms: Bar chart y Pie chart
 La visualización permite seleccionar un año específico, agregar el valor producido por cada cultivo y filtrar un cultivo.
 
 - Insights
+
 Se puede identificar como ha sido el comportamiento de un cultivo específico en la línea de tiempo que ayudaría a tomar decisiones para invertir en el sector agropecuario.
 Permite conocer qué cultivo es el que genera mayor producción.
 
