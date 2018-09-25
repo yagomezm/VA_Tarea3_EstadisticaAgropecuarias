@@ -43,6 +43,7 @@ Idioms: Bar chart y Pie chart
 La visualización permite seleccionar un año específico, agregar el valor producido por cada cultivo y filtrar un cultivo.
 
 - Insights
+
 Se puede identificar como ha sido el comportamiento de un cultivo específico en la línea de tiempo que ayudaría a tomar decisiones para invertir en el sector agropecuario.
 Permite conocer qué cultivo es el que genera mayor producción.
 
